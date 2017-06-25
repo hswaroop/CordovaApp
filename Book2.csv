@@ -1,2 +1,3 @@
-test,School Pad,index.html,res1/icons,res1/splash,www/js/init-app.js,www/css/app.css,#0A3D7C,#2e628e,cambridge-foundation-login-logo.png,schoolpad-login-logo.png,,732905778221,732905778221
-hello,Himanshu's App,index.html,res1/icons,res1/splash,www/js/init-app.js,www/css/app.css,#0A3D7C,#2e628e,cambridge-foundation-login-logo.png,schoolpad-login-logo.png,,732905778221,732905778221
+Name of the app folder,Name of the app,the source html file - inside the www folder,path for icons,path for splashscreens,path for the js file,path for the css file,initial colour code,final colour code,initial logo icon,final logo icon,Initial project number,Final project number
+A brief discription of the template,,,,,,,,,,,,
+test,School Pad,index.html,res1/icons,res1/splash,www/js/init-app.js,www/css/app.css,#0A3D7C,#2e628e,cambridge-foundation-login-logo.png,schoolpad-login-logo.png,732905778221,732905778221
